@@ -1,4 +1,4 @@
-// 26. Remove Duplicates from Sorted Array
+// #26. Remove Duplicates from Sorted Array
 // main idea: since the array is sorted, if the current value is equal to 
 // the previous one, then current value needs to be removed
 
